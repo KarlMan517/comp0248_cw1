@@ -5,7 +5,7 @@ This repo included all code used in the object detection coursework 1
 
 ## Instruction
 ```
-cd 25067520_Man
+cd comp0248_cw1
 
 conda create -n comp0248_cw1 python=3.10
 conda activate comp0248_cw1
